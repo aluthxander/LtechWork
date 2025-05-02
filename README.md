@@ -117,11 +117,4 @@ Dengan **LtechWork**, perusahaan dapat melakukan digitalisasi seluruh proses pen
 
 ## 🤝 Kontribusi
 
-Kami terbuka untuk kontribusi dari developer lain. Silakan fork repositori ini dan kirim pull request untuk fitur atau perbaikan yang kamu buat. Laporkan bug atau usulan fitur baru melalui halaman [Issues](https://github.com/namakamu/LtechWork/issues).
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
-Bebas digunakan, dimodifikasi, dan disebarluaskan sesuai dengan ketentuan lisensi.
+Kami terbuka untuk kontribusi dari developer lain. Silakan fork repositori ini dan kirim pull request untuk fitur atau perbaikan yang kamu buat.
