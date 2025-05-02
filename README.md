@@ -1,61 +1,127 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# LtechWork
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**LtechWork** adalah aplikasi berbasis web yang dikembangkan untuk mendukung kebutuhan manajemen pegawai dan tim Human Resource Development (HRD) dalam mengelola berbagai proses operasional terkait karyawan. Aplikasi ini dirancang agar intuitif, responsif, dan mudah digunakan, baik untuk tim HR maupun manajemen perusahaan.
 
-## About Laravel
+Dengan **LtechWork**, perusahaan dapat melakukan digitalisasi seluruh proses pengelolaan pegawai secara efisien, mulai dari pencatatan data karyawan, pemantauan absensi dan cuti, hingga proses evaluasi kinerja. Aplikasi ini bertujuan untuk meningkatkan produktivitas divisi HR, mengurangi beban administrasi manual, dan memberikan visibilitas yang lebih baik terhadap performa dan status pegawai.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🌟 Tujuan Pengembangan
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+* Memberikan solusi digital terintegrasi untuk manajemen kepegawaian
+* Menyediakan platform HR yang dapat dikustomisasi sesuai kebutuhan perusahaan
+* Meningkatkan efisiensi dan akurasi dalam pengelolaan data SDM
+* Mendukung pengambilan keputusan berbasis data dengan laporan dan analisis yang komprehensif
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 🧩️ Fitur Utama
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+* **Manajemen Data Pegawai**
+  Menyimpan dan mengelola informasi personal, jabatan, status kepegawaian, serta dokumen-dokumen penting karyawan.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+* **Absensi dan Cuti Online**
+  Pegawai dapat melakukan presensi secara daring, mengajukan cuti, serta melihat histori absensi dan status pengajuan cuti.
 
-## Laravel Sponsors
+* **Dashboard HR dan Manajemen**
+  Tampilan ringkas yang menyajikan informasi penting seperti jumlah karyawan aktif, status kehadiran hari ini, notifikasi penting, dan grafik evaluasi.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+* **Penilaian dan Evaluasi Kinerja**
+  Sistem untuk memberikan dan mengelola penilaian kinerja secara berkala berdasarkan indikator tertentu.
 
-### Premium Partners
+* **Role dan Hak Akses**
+  Manajemen level akses pengguna (admin, HR, pegawai) untuk menjaga keamanan dan integritas data.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
+* **Laporan dan Export Data**
+  Menghasilkan laporan kepegawaian dan data evaluasi dalam format PDF/Excel untuk keperluan dokumentasi dan audit.
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 🛠️ Teknologi yang Digunakan
 
-## Code of Conduct
+* **Backend**: [Laravel 12](https://laravel.com) (PHP 8.2)
+  Framework backend modern yang cepat, aman, dan scalable.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+* **Frontend**: [React](https://reactjs.org) + [Tailwind CSS](https://tailwindcss.com)
+  UI responsif dan dinamis dengan pendekatan komponen modern dan desain utility-first.
 
-## Security Vulnerabilities
+* **Database**: MySQL/MariaDB
+  Untuk menyimpan seluruh data pegawai, log aktivitas, dan histori evaluasi.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+* **Tools**:
 
-## License
+  * Composer (untuk dependency PHP)
+  * NPM/Yarn (untuk dependency frontend)
+  * Laravel Mix/Vite (untuk proses build dan bundling)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## 🚀 Cara Instalasi dan Menjalankan
+
+1. **Clone Repository**
+
+   ```bash
+   git clone https://github.com/namakamu/LtechWork.git
+   cd LtechWork
+   ```
+
+2. **Instalasi Backend**
+
+   ```bash
+   composer install
+   cp .env.example .env
+   php artisan key:generate
+   ```
+
+3. **Setup Database**
+
+   * Buat database di MySQL (misal: `ltechwork_db`)
+   * Atur koneksi DB di `.env`:
+
+     ```
+     DB_DATABASE=ltechwork_db
+     DB_USERNAME=root
+     DB_PASSWORD=
+     ```
+
+4. **Migrasi dan Seeder**
+
+   ```bash
+   php artisan migrate --seed
+   ```
+
+5. **Instalasi Frontend**
+
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+6. **Jalankan Server**
+
+   ```bash
+   php artisan serve
+   ```
+
+---
+
+## 💡 Rencana Pengembangan Selanjutnya
+
+* Integrasi dengan API untuk fingerprint/face recognition
+* Notifikasi email dan WhatsApp untuk pengajuan cuti & evaluasi
+* Modul rekrutmen & onboarding
+* Modul training dan pengembangan SDM
+* Dukungan multi perusahaan/divisi
+
+---
+
+## 🤝 Kontribusi
+
+Kami terbuka untuk kontribusi dari developer lain. Silakan fork repositori ini dan kirim pull request untuk fitur atau perbaikan yang kamu buat. Laporkan bug atau usulan fitur baru melalui halaman [Issues](https://github.com/namakamu/LtechWork/issues).
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
+Bebas digunakan, dimodifikasi, dan disebarluaskan sesuai dengan ketentuan lisensi.
