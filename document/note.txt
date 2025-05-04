@@ -1,0 +1,29 @@
+Diagram yang Perlu Dibuat
+* Use Case Diagram
+    Untuk menggambarkan fungsionalitas sistem dari sudut pandang pengguna.
+    Contoh use case:
+    - Admin mengelola data karyawan
+    - Admin memproses gaji
+    - Karyawan melihat slip gaji
+    - Admin mengatur potongan dan tunjangan
+* Entity Relationship Diagram (ERD)
+    Untuk merancang struktur database payroll seperti:
+    - Tabel karyawan, gaji, tunjangan, potongan, absensi, slip gaji
+    - Relasi antara tabel
+
+* Class Diagram
+    Untuk menggambarkan struktur model dan relasi antar class Laravel (Eloquent Model).
+
+* Activity Diagram
+    Untuk menunjukkan alur proses tertentu, misalnya:
+    - Proses perhitungan gaji
+    - Proses generate slip gaji
+
+* Sequence Diagram
+    Menjelaskan alur komunikasi antar komponen, cocok untuk menjelaskan interaksi antara frontend dan backend saat aksi tertentu, seperti login atau generate slip.
+
+* Component Diagram (opsional)
+    Menjelaskan bagaimana komponen besar seperti Laravel API, React App, dan Database saling berinteraksi.
+
+* Data Flow Diagram
+    perlu dibuat, terutama jika kamu ingin menggambarkan alur data yang mengalir antara entitas luar, proses, dan penyimpanan data dalam sistem payroll secara lebih detail dan sistematis.
