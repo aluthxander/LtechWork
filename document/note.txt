@@ -27,3 +27,66 @@ Diagram yang Perlu Dibuat
 
 * Data Flow Diagram
     perlu dibuat, terutama jika kamu ingin menggambarkan alur data yang mengalir antara entitas luar, proses, dan penyimpanan data dalam sistem payroll secara lebih detail dan sistematis.
+
+🔍 Website Riset & Inspirasi UI/UX Sistem Payroll
+1. 📌 Dribbble
+🔎 Cari dengan kata kunci seperti: payroll system, HR dashboard, salary management UI.
+
+🖼 Banyak contoh desain modern dan profesional.
+
+Cocok untuk referensi visual dan layout.
+
+2. 🎨 Behance
+Platform portofolio dari desainer profesional.
+
+Sering menampilkan desain lengkap: mulai dari wireframe, UI, UX flow, hingga studi kasus.
+
+Contoh keyword pencarian: Payroll Dashboard, HRIS System, Finance Admin UI.
+
+3. 📚 UI Garage
+Kumpulan elemen UI dari berbagai aplikasi nyata.
+
+Bisa filter berdasarkan kategori seperti "Admin Dashboard", "Finance", dll.
+
+Bagus untuk melihat desain spesifik komponen seperti form penggajian, tabel gaji, dsb.
+
+4. 🧠 UX Archive
+Fokus pada alur UX aplikasi nyata, seperti onboarding, login, pembayaran, dll.
+
+Berguna untuk mempelajari alur pengguna (UX flow) secara logis.
+
+Bisa kamu adaptasi untuk flow sistem payroll: login → input gaji → generate slip → laporan.
+
+5. 💡 Mobbin
+Koleksi desain mobile app real-world dari aplikasi populer.
+
+Cocok jika sistem payroll-mu juga akan diakses lewat mobile.
+
+Bisa lihat cara aplikasi seperti Gusto, Zenefits, atau Paychex menangani UI/UX-nya.
+
+6. 🧩 Collect UI
+Update harian inspirasi desain UI berdasarkan kategori.
+
+Cari bagian “Dashboard”, “Table”, atau “Admin Panel”.
+
+7. 📁 SaaS Landing Page
+Meski lebih fokus pada landing page, tapi banyak sistem payroll adalah SaaS.
+
+Bisa jadi inspirasi untuk halaman utama sistem payroll (jika berbasis web app).
+
+🎯 Tips Pencarian Efektif
+Gunakan kata kunci ini di situs-situs di atas:
+
+payroll system
+
+HR dashboard
+
+salary UI
+
+employee management
+
+attendance system
+
+finance admin panel
+
+HRIS (Human Resources Information System)
